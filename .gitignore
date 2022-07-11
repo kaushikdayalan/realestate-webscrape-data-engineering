@@ -127,9 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
 bin
 etc
 include
 lib64
 share
 pyvenv.cfg
+secret_key.txt
+src
