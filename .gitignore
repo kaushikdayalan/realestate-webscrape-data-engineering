@@ -135,4 +135,5 @@ lib64
 share
 pyvenv.cfg
 secret_key.txt
-src
+src/real_estate/real_estate/notebooks/jars
+src/real_estate/real_estate/tmpp8gbue3y
